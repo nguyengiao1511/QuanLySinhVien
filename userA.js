@@ -1,0 +1,1 @@
+console.log('user A code chức năng xyz')
