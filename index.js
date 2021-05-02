@@ -4,3 +4,7 @@ console.log('Du an moi')
 function del(){
     console.log('del');
 }
+
+function devB(){
+    console.log('dev_B code chức năng tạo branch')
+}
